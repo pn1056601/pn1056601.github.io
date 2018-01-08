@@ -1,0 +1,8 @@
+-q -%i -w http://lerative.com http://covetedapp.com https://www.jukemotion.com https://totalfootballinc.com https://influencer.gaia-nutrition.de http://www.granittech.com http://mysportify.com http://www.meleti.org http://top-app.site http://www.clubio.net https://www.spoileralert.life -O "/home/tits/websites/f6s mobile" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -r2 -%e2 -A250000000 -F "" -%F "" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u
+File generated automatically on Wed, 27 Dec 2017 14:48:42, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
